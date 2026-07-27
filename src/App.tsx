@@ -79,10 +79,10 @@ function App() {
             + Add Visitor
           </button>
            <button className="btn btn-primary" onClick={handleOpenAdd}>
-            + Add lull
+            + Add lull prasad
           </button>
            <button className="btn btn-primary" onClick={handleOpenAdd}>
-            + Add hasajhad
+            + Add hasajhadsdasd s
           </button>
         </div>
 
