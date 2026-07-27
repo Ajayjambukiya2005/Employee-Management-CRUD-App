@@ -78,6 +78,12 @@ function App() {
           <button className="btn btn-primary" onClick={handleOpenAdd}>
             + Add Visitor
           </button>
+           <button className="btn btn-primary" onClick={handleOpenAdd}>
+            + Add lull
+          </button>
+           <button className="btn btn-primary" onClick={handleOpenAdd}>
+            + Add hasajhad
+          </button>
         </div>
 
         <p className="text-muted">
