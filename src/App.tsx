@@ -72,6 +72,12 @@ function App() {
           <button className="btn btn-primary" onClick={handleOpenAdd}>
             + Add Employee
           </button>
+          <button className="btn btn-primary" onClick={handleOpenAdd}>
+            + Add Staff
+          </button>
+          <button className="btn btn-primary" onClick={handleOpenAdd}>
+            + Add Visitor
+          </button>
         </div>
 
         <p className="text-muted">
